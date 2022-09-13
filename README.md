@@ -1,4 +1,4 @@
-![Treineme](./Treineme.png)
+![Treineme](images/Treineme.png)
 
 #
 
